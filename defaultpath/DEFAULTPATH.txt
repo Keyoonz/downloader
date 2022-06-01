@@ -1,0 +1,3 @@
+Si aucun chemin n'est spécifié, les musiques se téléchargeront dans ce dossier.
+
+***Vous pouvez supprimez ce fichier***
